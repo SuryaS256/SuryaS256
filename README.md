@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SuryaS256
+- 👋 Hi, I’m Surya S
 - 👀 I’m interested in Software Development,Web Development,Data Structures and Algorithms
 - 🌱 I’m currently learning Web Technology
 - 📫 How to reach me Mail: surya.smg256@gmail.com
